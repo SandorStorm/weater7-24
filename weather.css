@@ -1,0 +1,27 @@
+img {
+    display: none;
+    float: left;
+    flex-direction: row;
+    width: 100px; height: 100px;
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+    float: right;
+    padding-right: 10px;
+    padding-left: 10pc;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: auto;
+}
+
+body {
+   
+    background-position: bottom;
+    background-color: aqua;
+    background-repeat:no-repeat;
+    background-size:contain
+    
+}
+
